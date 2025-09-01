@@ -1,4 +1,6 @@
 # PLP Week 5 Python Programming Assignment
+My name is Joseph Ajireloja.
+
 This repository contains my answers to PLP Week 5 Python programming assignment.
 
 # Questions
