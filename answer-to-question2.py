@@ -1,4 +1,4 @@
-# Base class representing a generic animal
+# Base class representing a generic animal.
 class Animal:
     def __init__(self, name):
         self.name = name
@@ -36,3 +36,4 @@ animals = [Dog("Dog1"), Bird("Bird1"), Fish("Fish1")]
 
 print("Animals moving:")
 demonstrate_movement(animals)
+
